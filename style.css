@@ -1,0 +1,125 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+nav{
+    background-color:  rgb(11, 27, 75);
+    font-size: larger;
+    color: wheat;
+    padding: 2em 0em 2em 0;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: solid;
+    font-weight: bolder;
+}
+
+nav a{
+    color: wheat;
+}
+
+.head-bg{
+    background-color: rgb(11, 27, 75);
+    padding: 1.5em 1.6em 1.5em 0;
+    text-transform: uppercase;
+    width:97%;
+    color: wheat;
+    text-align: center;
+}
+
+.head-bg a{
+    color: wheat;
+    text-decoration: solid;
+    text-transform: uppercase;
+    
+  }
+
+
+  ul a:hover{
+    color: rgb(117, 105, 230);
+}
+.p1{
+    color:black;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    line-height: 2ch;
+    
+  }
+  .services{
+    text-align: center;
+  }
+  .img-head{
+    width: 97%;
+  }
+  .client{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  }
+  .abt1{
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0.5em 0.5em 5em 5em;
+
+
+
+
+}
+.client-content{
+    margin: 0.5em 0.5em 5em 5em;
+
+}
+span{
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 8px;
+    margin: 2px;
+    font-weight: 600;
+
+}
+.img1 {
+    text-align: center; /* Align the logo horizontally */
+    
+  }
+  .logo
+        {
+   
+            margin-left: 25%;   
+            text-align: center;
+            margin-bottom: 23%;
+            float: left;
+            position: relative;
+        }
+     
+ footer{
+            color:black;
+          
+            text-align: end;
+            padding: 2px;
+            font-size: medium;
+          }
+
+ .img-head{
+    
+    text-align: center;
+    margin: 0 0.5em 0 0.3em;
+ }      
+ 
+ .headers img{
+    width: 100%;
+   
+    display: flex;
+ }
+  
+ @media only screen and (min-width: 500px) {
+    
+ }
+  
