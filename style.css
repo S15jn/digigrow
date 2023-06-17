@@ -124,6 +124,14 @@ span{
   .head-bg, .abt1, .services, .client-content {
                 text-align: center;
             }
+     .img-head img {
+        width: 100%;
+      }
+
+      .services img {
+        width: 100%;
+        margin-bottom: 10px;
+      }
 }
 
 
@@ -132,6 +140,17 @@ span{
    .head-bg, .abt1, .services, .client-content {
                 text-align: right;
             }
+    .img-head img {
+        width: 400px;
+      }
+    .abt1 {
+    text-align: left; /* Align to the left on mobile screens */
+  }
+
+      .services img {
+        width: 200px;
+        margin-bottom: 0;
+      }
 
 }
  
