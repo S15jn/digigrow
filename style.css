@@ -141,9 +141,7 @@ span{
 /* Styles specific to laptop screens */
 @media (min-width: 768px) {
    
-    .img-head img {
-        width: 400px;
-      }
+    
     
 
       .services img {
