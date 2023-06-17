@@ -121,23 +121,17 @@ span{
  }
 
  @media (max-width: 767px) {
-  .abt1 {
-    text-align: left; /* Align to the left on mobile screens */
-  }
-        .client-content {
-    text-align: left; /* Align to the left on mobile screens */
-  }
+  .head-bg, .abt1, .services, .client-content {
+                text-align: center;
+            }
 }
 
 
 /* Styles specific to laptop screens */
 @media (min-width: 768px) {
-  .abt1 {
-    text-align: right; /* Align to the right on laptop screens */
-  }
- .client-content {
-    text-align: right; /* Align to the right on laptop screens */
-  }
+   .head-bg, .abt1, .services, .client-content {
+                text-align: right;
+            }
 
 }
  
