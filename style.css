@@ -130,6 +130,11 @@ span{
     .client-content{
       margin: 0.5em 0.5em 5em 1em;
  }
+     .abt{margin: 0.5em -0.5em 1em 1em;
+             padding-block: inherit;
+    padding: -16px;
+}
+     }
  }
   
  @media only screen and (min-width: 400px) 
@@ -142,5 +147,11 @@ span{
   }
   .client-content{
     margin: 0.5em 1.5em 5em 1em;
-  }
+     }}
+  @media only screen and (min-width: 280px)    
+       .abt{
+      margin: 3.5em 0.5em 3em 1em;
+    padding: 4px;
+           padding-block: inherit; }
+}
   
