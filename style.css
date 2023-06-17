@@ -149,6 +149,7 @@ span{
   }
   .abt1{
     margin: 0.5em 3.5em 5em 5em;
+      padding:0px 0.2em 0px 0.1em;
   }
   .client-content{
      margin: auto;
