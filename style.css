@@ -142,7 +142,7 @@ span{
      }
  }
   
- @media only screen and (min-width: 400px) 
+ @media only screen and (max-width: 480px , min-width:320px) 
  {
   *{
     max-width: 100%;
@@ -151,15 +151,9 @@ span{
     margin: 0.5em 3.5em 5em 5em;
   }
   .client-content{
-     margin: 3.5em 0.5em 1em 0.4em;
+     margin: 1.5em -0.5em 1em 0.3999999999999999em;
     padding: inherit;
-    padding: 0px 0em 0px 3px;
+    padding: 0px 0em 0px 0px;
     text-align: center;
      }}
-  @media only screen and (min-width: 280px)    
-       .abt{
-      margin: 3.5em 0.5em 3em 1em;
-    padding: 4px;
-           padding-block: inherit; }
-}
-  
+ 
