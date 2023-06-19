@@ -127,6 +127,8 @@ span{
      .img-head img {
         width: 100%;
       }
+     ..client-content{ text-align: left;
+     }
 
       .services img {
         width: 100%;
