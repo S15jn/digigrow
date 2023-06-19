@@ -121,7 +121,7 @@ span{
  }
 
  @media (max-width: 767px) {
-  .head-bg, .abt1, .services, .client-content {
+  .head-bg, .abt1, .services, . {
                 text-align: center;
             }
      .img-head img {
